@@ -1,7 +1,8 @@
-package com.keyflare.weather
+package com.keyflare.weather.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.keyflare.weather.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
